@@ -1,0 +1,11 @@
+Time=0   Coin5=0 Coin10=0 Dispense=0
+
+Time=10  Coin5=1 Coin10=0 Dispense=0
+
+Time=20  Coin5=0 Coin10=1 Dispense=0
+
+Time=30  Coin5=0 Coin10=0 Dispense=1
+
+Time=60  Coin5=0 Coin10=1 Dispense=0
+
+Time=70  Coin5=1 Coin10=0 Dispense=1
